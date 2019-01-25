@@ -5,5 +5,7 @@ With plugins:
 
 - http.prometheus
 - http.cache
-- tls.dns.cloudflare
+- http.cors
+- http.minify
+- http.ratelimit
 - docker
